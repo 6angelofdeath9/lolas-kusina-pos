@@ -1,0 +1,68 @@
+﻿  GUI.cpp
+C:\Users\angelofdeath\source\repos\LOLASKUSINAMAINPROJECT\LolasKusinaGUI\LolasKusinaGUI\LolasKusinaGUI\GUI.h(54,13): warning C4005: 'COLOR_BACKGROUND': macro redefinition
+  (compiling source file 'GUI.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winuser.h(9637,9):
+      see previous definition of 'COLOR_BACKGROUND'
+  
+C:\Users\angelofdeath\source\repos\LOLASKUSINAMAINPROJECT\LolasKusinaGUI\LolasKusinaGUI\LolasKusinaGUI\GUI.cpp(105,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\angelofdeath\source\repos\LOLASKUSINAMAINPROJECT\LolasKusinaGUI\LolasKusinaGUI\LolasKusinaGUI\GUI.cpp(534,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\angelofdeath\source\repos\LOLASKUSINAMAINPROJECT\LolasKusinaGUI\LolasKusinaGUI\LolasKusinaGUI\GUI.cpp(540,27): warning C4312: 'type cast': conversion from 'int' to 'HMENU' of greater size
+C:\Users\angelofdeath\source\repos\LOLASKUSINAMAINPROJECT\LolasKusinaGUI\LolasKusinaGUI\LolasKusinaGUI\GUI.cpp(564,20): warning C4312: 'type cast': conversion from 'int' to 'HMENU' of greater size
+C:\Users\angelofdeath\source\repos\LOLASKUSINAMAINPROJECT\LolasKusinaGUI\LolasKusinaGUI\LolasKusinaGUI\GUI.cpp(571,15): warning C4312: 'type cast': conversion from 'int' to 'HMENU' of greater size
+C:\Users\angelofdeath\source\repos\LOLASKUSINAMAINPROJECT\LolasKusinaGUI\LolasKusinaGUI\LolasKusinaGUI\GUI.cpp(573,18): warning C4312: 'type cast': conversion from 'int' to 'HMENU' of greater size
+C:\Users\angelofdeath\source\repos\LOLASKUSINAMAINPROJECT\LolasKusinaGUI\LolasKusinaGUI\LolasKusinaGUI\GUI.cpp(647,26): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\angelofdeath\source\repos\LOLASKUSINAMAINPROJECT\LolasKusinaGUI\LolasKusinaGUI\LolasKusinaGUI\GUI.cpp(1018,64): warning C4566: character represented by universal-character-name '\U0001F95F' cannot be represented in the current code page (1252)
+C:\Users\angelofdeath\source\repos\LOLASKUSINAMAINPROJECT\LolasKusinaGUI\LolasKusinaGUI\LolasKusinaGUI\GUI.cpp(1019,65): warning C4566: character represented by universal-character-name '\U0001F991' cannot be represented in the current code page (1252)
+C:\Users\angelofdeath\source\repos\LOLASKUSINAMAINPROJECT\LolasKusinaGUI\LolasKusinaGUI\LolasKusinaGUI\GUI.cpp(1020,65): warning C4566: character represented by universal-character-name '\U0001F437' cannot be represented in the current code page (1252)
+C:\Users\angelofdeath\source\repos\LOLASKUSINAMAINPROJECT\LolasKusinaGUI\LolasKusinaGUI\LolasKusinaGUI\GUI.cpp(1021,61): warning C4566: character represented by universal-character-name '\U0001F372' cannot be represented in the current code page (1252)
+C:\Users\angelofdeath\source\repos\LOLASKUSINAMAINPROJECT\LolasKusinaGUI\LolasKusinaGUI\LolasKusinaGUI\GUI.cpp(1022,65): warning C4566: character represented by universal-character-name '\U0001F958' cannot be represented in the current code page (1252)
+C:\Users\angelofdeath\source\repos\LOLASKUSINAMAINPROJECT\LolasKusinaGUI\LolasKusinaGUI\LolasKusinaGUI\GUI.cpp(1023,64): warning C4566: character represented by universal-character-name '\U0001F35C' cannot be represented in the current code page (1252)
+C:\Users\angelofdeath\source\repos\LOLASKUSINAMAINPROJECT\LolasKusinaGUI\LolasKusinaGUI\LolasKusinaGUI\GUI.cpp(1024,62): warning C4566: character represented by universal-character-name '\U0001F41F' cannot be represented in the current code page (1252)
+C:\Users\angelofdeath\source\repos\LOLASKUSINAMAINPROJECT\LolasKusinaGUI\LolasKusinaGUI\LolasKusinaGUI\GUI.cpp(1025,62): warning C4566: character represented by universal-character-name '\U0001F356' cannot be represented in the current code page (1252)
+C:\Users\angelofdeath\source\repos\LOLASKUSINAMAINPROJECT\LolasKusinaGUI\LolasKusinaGUI\LolasKusinaGUI\GUI.cpp(1026,61): warning C4566: character represented by universal-character-name '\U0001F525' cannot be represented in the current code page (1252)
+C:\Users\angelofdeath\source\repos\LOLASKUSINAMAINPROJECT\LolasKusinaGUI\LolasKusinaGUI\LolasKusinaGUI\GUI.cpp(1027,65): warning C4566: character represented by universal-character-name '\U0001F367' cannot be represented in the current code page (1252)
+C:\Users\angelofdeath\source\repos\LOLASKUSINAMAINPROJECT\LolasKusinaGUI\LolasKusinaGUI\LolasKusinaGUI\GUI.cpp(1028,66): warning C4566: character represented by universal-character-name '\U0001F370' cannot be represented in the current code page (1252)
+C:\Users\angelofdeath\source\repos\LOLASKUSINAMAINPROJECT\LolasKusinaGUI\LolasKusinaGUI\LolasKusinaGUI\GUI.cpp(1029,67): warning C4566: character represented by universal-character-name '\U0001F965' cannot be represented in the current code page (1252)
+C:\Users\angelofdeath\source\repos\LOLASKUSINAMAINPROJECT\LolasKusinaGUI\LolasKusinaGUI\LolasKusinaGUI\GUI.cpp(1030,66): warning C4566: character represented by universal-character-name '\U0001F965' cannot be represented in the current code page (1252)
+C:\Users\angelofdeath\source\repos\LOLASKUSINAMAINPROJECT\LolasKusinaGUI\LolasKusinaGUI\LolasKusinaGUI\GUI.cpp(1031,64): warning C4566: character represented by universal-character-name '\U0001F964' cannot be represented in the current code page (1252)
+C:\Users\angelofdeath\source\repos\LOLASKUSINAMAINPROJECT\LolasKusinaGUI\LolasKusinaGUI\LolasKusinaGUI\GUI.cpp(1032,60): warning C4566: character represented by universal-character-name '\U0001F964' cannot be represented in the current code page (1252)
+C:\Users\angelofdeath\source\repos\LOLASKUSINAMAINPROJECT\LolasKusinaGUI\LolasKusinaGUI\LolasKusinaGUI\GUI.cpp(1033,63): warning C4566: character represented by universal-character-name '\U0001F34B' cannot be represented in the current code page (1252)
+C:\Users\angelofdeath\source\repos\LOLASKUSINAMAINPROJECT\LolasKusinaGUI\LolasKusinaGUI\LolasKusinaGUI\GUI.cpp(1034,68): warning C4566: character represented by universal-character-name '\U0001F34B' cannot be represented in the current code page (1252)
+C:\Users\angelofdeath\source\repos\LOLASKUSINAMAINPROJECT\LolasKusinaGUI\LolasKusinaGUI\LolasKusinaGUI\GUI.cpp(1035,71): warning C4566: character represented by universal-character-name '\U0001F34B' cannot be represented in the current code page (1252)
+C:\Users\angelofdeath\source\repos\LOLASKUSINAMAINPROJECT\LolasKusinaGUI\LolasKusinaGUI\LolasKusinaGUI\GUI.cpp(1036,65): warning C4566: character represented by universal-character-name '\U0001F34B' cannot be represented in the current code page (1252)
+C:\Users\angelofdeath\source\repos\LOLASKUSINAMAINPROJECT\LolasKusinaGUI\LolasKusinaGUI\LolasKusinaGUI\GUI.cpp(1037,70): warning C4566: character represented by universal-character-name '\U0001F34B' cannot be represented in the current code page (1252)
+C:\Users\angelofdeath\source\repos\LOLASKUSINAMAINPROJECT\LolasKusinaGUI\LolasKusinaGUI\LolasKusinaGUI\GUI.cpp(1039,12): warning C4566: character represented by universal-character-name '\U0001F37D' cannot be represented in the current code page (1252)
+C:\Users\angelofdeath\source\repos\LOLASKUSINAMAINPROJECT\LolasKusinaGUI\LolasKusinaGUI\LolasKusinaGUI\GUI.cpp(1039,12): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1252)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(4813,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'GUI.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(4813,18):
+      the template instantiation context (the oldest one first) is
+          C:\Users\angelofdeath\source\repos\LOLASKUSINAMAINPROJECT\LolasKusinaGUI\LolasKusinaGUI\LolasKusinaGUI\GUI.cpp(362,42):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<wchar_t*,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Iter=wchar_t *,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\angelofdeath\source\repos\LOLASKUSINAMAINPROJECT\LolasKusinaGUI\LolasKusinaGUI\LolasKusinaGUI\GUI.cpp(362,29):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'RestaurantGUI::OnLogin'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(812,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(968,18):
+          see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+  LolasKusinaGUI.vcxproj -> C:\Users\angelofdeath\source\repos\LOLASKUSINAMAINPROJECT\LolasKusinaGUI\LolasKusinaGUI\x64\Debug\LolasKusinaGUI.exe
